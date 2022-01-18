@@ -100,9 +100,9 @@ as the NIH SRA, requiring minimal admin overhead. Publications that only provide
 here. 
 
 * Aizik _et al._ [Antibody Repertoire Analysis of Tumor-Infiltrating B Cells Reveals Distinct Signatures and Distributions
-  Across Tissues](https://www.frontiersin.org/articles/10.3389/fimmu.2021.705381) _Front Immunol_ (2021).
+  Across Tissues](https://www.frontiersin.org/articles/10.3389/fimmu.2021.705381) _Front Immunol_ (2021). **Data available in SRA.**
 * Ehling _et al._ [SARS-CoV-2 reactive and neutralizing antibodies discovered by single-cell sequencing of plasma cells
-  and mammalian display](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01751-4). _Cell Rep_ (2021).
+  and mammalian display](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01751-4). _Cell Rep_ (2021). **Data available in SRA.**
 * Harris _et al._ [Tumor-Infiltrating B Lymphocyte Profiling Identifies IgG-Biased, Clonally Expanded Prognostic
   Phenotypes in Triple-Negative Breast Cancer](https://cancerres.aacrjournals.org/content/81/16/4290.long). _Caner Res_ (2021).
   **Data available directly from publication.**
@@ -117,7 +117,7 @@ here.
 * Wieland _et al._ [Defining HPV-specific B cell responses in patients with head and neck cancer](https://www.nature.com/articles/s41586-020-2931-3). _Nature_ (2021).
   **Data available via GEO**.
 * Yang _et al._ [Large-scale analysis of 2,152 Ig-seq datasets reveals key features of B cell biology and the antibody
-  repertoire](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00444-7). _Cell Rep_ (2021).
+  repertoire](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00444-7). _Cell Rep_ (2021). **Data available in SRA.**
 * Galson _et al._ [Deep Sequencing of B Cell Receptor Repertoires From COVID-19 Patients Reveals Strong Convergent Immune
   Signatures](https://www.frontiersin.org/articles/10.3389/fimmu.2020.605170/full). _Front Immunol_ (2020). **Data available
   directly from publication.**
@@ -185,8 +185,10 @@ datasets.
 ### Structural annotations
 
 #### Notes
-The remit of this section is to cover how structural annotation methods (such as [ABodyBuilder](https://www.tandfonline.com/doi/full/10.1080/19420862.2016.1205773)) can be used to
-understand "structural convergence" of the BCR repertoire.
+The remit of this section is to cover how structure prediction methods (such as [ABodyBuilder](https://www.tandfonline.com/doi/full/10.1080/19420862.2016.1205773))
+can be used to interrogate and understand "structural convergence" of the BCR repertoire. We'd like to point readers to
+the latest structure prediction tools in this space, including [ABLooper](https://www.biorxiv.org/content/10.1101/2021.07.26.453747v3),
+[DeepAb](https://www.cell.com/patterns/fulltext/S2666-3899(21)00280-4), and of course [AlphaFold2](https://www.nature.com/articles/s41586-021-03819-2).
 
 * Raybould _et al._ [Public Baseline and shared response structures support the theory of antibody repertoire functional
   commonality](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008781). _PLoS Comput Biol_ (2021).
@@ -195,4 +197,4 @@ understand "structural convergence" of the BCR repertoire.
 * Kovaltsuk _et al._ [Structural diversity of B-cell receptor repertoires along the B-cell differentiation axis in humans
   and mice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007636). _PLoS Comput Biol_ (2020).
 * Krawczyk _et al._ [Structurally Mapping Antibody Repertoires](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01698/full).
-  _Front Immunol_ (2018).  
+  _Front Immunol_ (2018).
