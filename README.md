@@ -1,22 +1,21 @@
-# Awesome Human BCR repertoire papers 📝
+# Awesome BCR repertoire papers 📝
 
 B cell receptor (BCR) repertoire analysis has grown tremendously in the last 10
 years or so, and has been especially relevant for understanding disease and
 finding novel therapeutics. We at [Alchemab](https://www.alchemab.com/) love
 the huge growth in this space and have curated a list of papers across several
-areas. This is not an exhaustive list, so please let us know if we've missed
-your paper.
+areas. This is **not** an exhaustive list, so please let us know if we've missed
+your favourite paper.
 
-Where applicable, we also comment on data availability in the
-[Observed Antibody Space (OAS) database](http://opig.stats.ox.ac.uk/webapps/oas/oas).
-
-If you'd like to contribute, or provide any new categories, feel free to submit a pull request.
+We intend this to be a growing list, so if you'd like to contribute, or suggest any
+new categories, feel free to submit a pull request.
 
 ## Table of contents
-* [Reviews](#reviews)
-* [BCR repertoire datasets](#bcr-repertoire-datasets)
-* [Clonotyping Methods](#clonotyping-methods)
-* [Machine learning](#machine-learning)
+* [Reviews](#reviews) 📚
+* [BCR repertoire datasets](#bcr-repertoire-datasets) 🧬
+* [Machine learning](#machine-learning) 🤖
+* [Clonotyping Methods](#clonotyping-methods) 🚀
+* [Structural annotations](#structural-annotations) 🔮
 
 ### Reviews
 
@@ -137,6 +136,8 @@ The remit of this section is to cover how machine learning (ML) methods have bee
 _or_ applying existing ML tools for enhancing repertoire analyses. Due to the nature of the way things are moving in this
 space, quite a few publications are just pre-prints!
 
+* Ghraichy _et al._ [Different B cell subpopulations show distinct patterns in their IgH repertoire metrics](https://elifesciences.org/articles/73111).
+  _eLife_ (2021).
 * Kim _et al._ [Computational analysis of B cell receptor repertoires in COVID-19 patients using deep embedded
   representations of protein sequences](https://www.biorxiv.org/content/10.1101/2021.08.02.454701v3). _biorXiv_ (2021).
 * Leem _et al._ [Deciphering the language of antibodies using self-supervised learning](https://www.biorxiv.org/content/10.1101/2021.11.10.468064v1).
@@ -160,6 +161,8 @@ _arXiv_ (2021b).
 * Shuai _et al._ [Generative Language Modeling for Antibody Design](https://www.biorxiv.org/content/10.1101/2021.12.13.472419v1) _biorXiv_ (2021).
 * Amimeur _et al._ [Designing Feature-Controlled Humanoid Antibody Discovery Libraries Using Generative Adversarial
   Networks](https://www.biorxiv.org/content/10.1101/2020.04.12.024844v2). _biorXiv_ (2020).
+* Fridensohn _et al._ [Convergent selection in antibody repertoires is revealed by deep learning](https://www.biorxiv.org/content/10.1101/2020.02.25.965673v1).
+  _biorXiv_ (2020).  
 * Widrich _et al._ [Modern Hopfield Networks and Attention for Immune Repertoire Classification](). _NeurIPS Proceedings_
   (2020).  
 * Wollacott _et al._ [Quantifying the nativeness of antibody sequences using long short-term memory networks](https://academic.oup.com/peds/article/32/7/347/5554642).
@@ -178,3 +181,18 @@ datasets.
   _Bioinformatics_ (2018).
 * Gupta _et al._, [Hierarchical clustering can identify B cell clones with high confidence in Ig repertoire sequencing
   data](https://www.jimmunol.org/content/198/6/2489.long). _J Immunol_ (2017).
+
+### Structural annotations
+
+#### Notes
+The remit of this section is to cover how structural annotation methods (such as [ABodyBuilder](https://www.tandfonline.com/doi/full/10.1080/19420862.2016.1205773)) can be used to
+understand "structural convergence" of the BCR repertoire.
+
+* Raybould _et al._ [Public Baseline and shared response structures support the theory of antibody repertoire functional
+  commonality](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008781). _PLoS Comput Biol_ (2021).
+* Robinson _et al._ [Epitope profiling using computational structural modelling demonstrated on coronavirus-binding
+  antibodies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009675). _PLoS Comput Biol_ (2021).
+* Kovaltsuk _et al._ [Structural diversity of B-cell receptor repertoires along the B-cell differentiation axis in humans
+  and mice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007636). _PLoS Comput Biol_ (2020).
+* Krawczyk _et al._ [Structurally Mapping Antibody Repertoires](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01698/full).
+  _Front Immunol_ (2018).  
