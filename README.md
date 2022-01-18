@@ -107,7 +107,7 @@ here.
   Phenotypes in Triple-Negative Breast Cancer](https://cancerres.aacrjournals.org/content/81/16/4290.long). _Caner Res_ (2021).
   **Data available directly from publication.**
 * Ohm-Laursen _et al._ [B Cell Mobilization, Dissemination, Fine Tuning of Local Antigen Specificity and Isotype Selection
-  in Asthma](https://www.frontiersin.org/articles/10.3389/fimmu.2021.702074/). _Front Immunol_ (2021).
+  in Asthma](https://www.frontiersin.org/articles/10.3389/fimmu.2021.702074/). _Front Immunol_ (2021). **Data available in SRA.**
 * Turner _et al._ [SARS-CoV-2 mRNA vaccines induce persistent human germinal centre responses](https://www.nature.com/articles/s41586-021-03738-2).
   _Nature_ (2021). **Data available in SRA**.
 * Sokal _et al._ [Maturation and persistence of the anti-SARS-CoV-2 memory B cell response](https://www.cell.com/cell/fulltext/S0092-8674(21)00093-3).
