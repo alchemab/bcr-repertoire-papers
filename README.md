@@ -10,6 +10,9 @@ your favourite paper.
 We intend this to be a growing list, so if you'd like to contribute, or suggest any
 new categories, feel free to submit a pull request.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/alchemab-therapeutics-ltd/)
+[![Alchemab](https://img.shields.io/twitter/follow/alchemabtx?style=social)](https://twitter.com/alchemabtx)
+
 ## Table of contents
 * [Reviews](#reviews) 📚
 * [BCR repertoire datasets](#bcr-repertoire-datasets) 🧬
