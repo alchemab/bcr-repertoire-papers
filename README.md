@@ -1,8 +1,8 @@
 # Awesome BCR repertoire papers 📝
 
 B cell receptor (BCR) repertoire analysis has grown tremendously in the last 10
-years or so, and has been especially relevant for understanding disease and
-finding novel therapeutics. We at [Alchemab](https://www.alchemab.com/) love
+years, transforming our understanding disease and
+enabling the discovery of novel therapeutics. We at [Alchemab](https://www.alchemab.com/) love
 the huge growth in this space and have curated a list of papers across several
 areas. This is **not** an exhaustive list, so please let us know if we've missed
 your favourite paper.
@@ -26,7 +26,6 @@ new categories, feel free to submit a pull request.
 * Raybould _et al._, [Current strategies for detecting functional convergence across B-cell receptor repertoires](https://www.tandfonline.com/doi/full/10.1080/19420862.2021.1996732). _mAbs_ (2021).
 * Snapkov _et al._, [Progress and challenges in mass spectrometry-based analysis of antibody
   repertoires](https://linkinghub.elsevier.com/retrieve/pii/S0167-7799(21)00193-1). _Trends Biotechnol_ (2021).
-  
 * Cspregi _et al._, [Immune Literacy: Reading, Writing, and Editing Adaptive Immunity](https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(20)30711-2).
   _iScience_ (2020).
 * Greiff _et al._, [Mining adaptive immune receptor repertoires for biological and clinical information 
@@ -36,12 +35,10 @@ new categories, feel free to submit a pull request.
 * Rees, [Understanding the human antibody repertoire](https://www.tandfonline.com/doi/full/10.1080/19420862.2020.1729683).
   _mAbs_, (2020).
 * Teraguchi _et al._, [Methods for sequence and structural analysis of B and T cell receptor repertoires](https://www.sciencedirect.com/science/article/pii/S2001037020303408). _Comput Struct Biotechnol J_ (2020).
-
 * Brown _et al._, [Augmenting adaptive immunity: progress and challenges in the quantitative engineering and analysis of adaptive immune receptor
   repertoires](https://pubs.rsc.org/en/content/articlehtml/2019/me/c9me00071b). _Mol Syst Des Eng_ (2019).
 * Davis and Boyd, [Recent progress in the analysis of αβT cell and B cell receptor repertoires](https://www.sciencedirect.com/science/article/abs/pii/S0952791519300482).
   _Curr Opin Immunol_ (2019).
-
 * Bashford-Rogers _et al._, [Antibody repertoire analysis in polygenic autoimmune diseases](https://onlinelibrary.wiley.com/doi/10.1111/imm.12927).
   _Immunology_ (2018).
 * Chaudhary and Wesemann, [Analyzing Immunoglobulin Repertoires](https://www.frontiersin.org/articles/10.3389/fimmu.2018.00462/full).
@@ -56,17 +53,14 @@ _Front Immunol_ (2018).
   engineering](https://onlinelibrary.wiley.com/doi/10.1111/imm.12838) _Immunology_ (2018).  
 * Yermanos _et al._, [Tracing Antibody Repertoire Evolution by Systems Phylogeny](https://www.frontiersin.org/articles/10.3389/fimmu.2018.02149/full).
   _Front Immunol_ (2018).
-  
 * Friedensohn _et al._, [Advanced Methodologies in High-Throughput Sequencing of Immune
   Repertoires](https://linkinghub.elsevier.com/retrieve/pii/S0167-7799(16)30162-7). _Trends Biotechnol_ (2017).  
 * Kovaltsuk _et al._, [How B-Cell Receptor Repertoire Sequencing Can Be Enriched with Structural Antibody Data
 ](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01753/full). _Front Immunol_ (2017).
-  
 * Yaari and Kleinstein, [Practical guidelines for B-cell receptor repertoire sequencing
   analysis](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-015-0243-2). _Genome Med_ (2015).
 * Boyd _et al._, [Deep sequencing and human antibody repertoire analysis](https://www.sciencedirect.com/science/article/abs/pii/S0952791516300255).
   _Curr Opin Immunol_ (2016).
-  
 * Greiff _et al._, [Bioinformatic and Statistical Analysis of Adaptive Immune Repertoires
 ](https://linkinghub.elsevier.com/retrieve/pii/S1471-4906(15)00223-9). _Trends Immunol_ (2015).
 * Hershberg and Luning Prak, [The analysis of clonal expansions in normal and autoimmune B cell
@@ -79,12 +73,10 @@ _Front Immunol_ (2018).
   _Curr Opin Chem Biol_ (2015).
 * Robinson, [Sequencing the functional antibody repertoire--diagnostic and therapeutic discovery](https://www.nature.com/articles/nrrheum.2014.220).
   _Nat Rev Rheumatol_ (2015).
-
 * Galson _et al._, [Studying the antibody repertoire after vaccination: practical
   applications](https://doi.org/10.1016/j.it.2014.04.005). _Trends Immunol_ (2014).
 * Georgiou _et al._, [The promise and challenge of high-throughput sequencing of the antibody repertoire
 ](https://www.nature.com/articles/nbt.2782). _Nat Biotechnol_ (2014).
-  
 * Six _et al._ [The past, present, and future of immune repertoire biology – the rise of next-generation
   repertoire analysis](https://www.frontiersin.org/articles/10.3389/fimmu.2013.00413/full) _Front Immunol_ (2013).
 * Reddy _et al._ [Systems analysis of adaptive immunity by utilization of high-throughput technologies](https://linkinghub.elsevier.com/retrieve/pii/S0958-1669(11)00078-4).
