@@ -31,7 +31,7 @@ new categories, feel free to submit a pull request.
   _iScience_ (2020).
 * Greiff _et al._, [Mining adaptive immune receptor repertoires for biological and clinical information 
   using machine learning](https://www.sciencedirect.com/science/article/pii/S2452310020300524). _Curr Opin Sys Biol_ (2020).
-* Marks _et al._, [How repertoire data are changing antibody science](https://www.jbc.org/article/S0021-9258(17)48926-5).
+* Marks and Deane, [How repertoire data are changing antibody science](https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(17)48926-5).
   _J Biol Chem_ (2020).  
 * Rees, [Understanding the human antibody repertoire](https://www.tandfonline.com/doi/full/10.1080/19420862.2020.1729683).
   _mAbs_, (2020).
